@@ -1,0 +1,31 @@
+#main{
+    border: 1px solid #000;
+
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue{
+    background-color:blue;
+}
+
+.yellow{
+    padding: 40px;
+    background-color:yellow;
+}
+
+.red{
+    padding: 40px;
+    background-color: red;
+}
+
